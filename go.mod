@@ -5,7 +5,7 @@ go 1.25.5
 require (
 	github.com/GoogleCloudPlatform/gke-gateway-api v1.3.0
 	github.com/envoyproxy/gateway v1.6.2
-	github.com/getkin/kin-openapi v0.124.0
+	github.com/getkin/kin-openapi v0.131.0
 	github.com/google/go-cmp v0.7.0
 	github.com/kgateway-dev/kgateway/v2 v2.2.0
 	github.com/kong/kubernetes-ingress-controller/v2 v2.12.3
@@ -31,7 +31,6 @@ require (
 	github.com/evanphx/json-patch v5.9.11+incompatible // indirect
 	github.com/fxamacker/cbor/v2 v2.9.0 // indirect
 	github.com/go-openapi/swag/jsonname v0.25.4 // indirect
-	github.com/invopop/yaml v0.2.0 // indirect
 	github.com/mattn/go-runewidth v0.0.17 // indirect
 )
 
@@ -87,6 +86,8 @@ require (
 	github.com/mohae/deepcopy v0.0.0-20170929034955-c48cc78d4826 // indirect
 	github.com/monochromegane/go-gitignore v0.0.0-20200626010858-205db1a8cc00 // indirect
 	github.com/mxk/go-flowrate v0.0.0-20140419014527-cca7078d478f // indirect
+	github.com/oasdiff/yaml v0.0.0-20250309154309-f31be36b4037 // indirect
+	github.com/oasdiff/yaml3 v0.0.0-20250309153720-d2182401db90 // indirect
 	github.com/opencontainers/go-digest v1.0.0 // indirect
 	github.com/opencontainers/image-spec v1.1.1 // indirect
 	github.com/perimeterx/marshmallow v1.1.5 // indirect
